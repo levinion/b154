@@ -12,12 +12,12 @@
 ## 下载
 使用包
 ```go
-go get github.com/levinion/base114514/coding
+go get github.com/levinion/b154/coding
 ```
 
 使用命令行程序对文件编解码
 ```go
-go install github.com/levinion/base114514@latest
+go install github.com/levinion/b154@latest
 ```
 
 ## 用法
